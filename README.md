@@ -12,27 +12,29 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<em>A passionate Full Stack Web Developer and Competitive Programmer from India. I love building things that live on the internet and solving complex problems.</em>
+<em>A passionate Full Stack Web Developer and Competitive Programmer. I love building things that live on the internet and solving complex problems.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on improving my backend development skills.
-- 🌱 I’m currently learning Next.js and GraphQL.
-- 👯 I’m looking to collaborate on innovative open-source web projects.
-- 🤔 I’m looking for help with advanced data structures and algorithms.
-- 💬 Ask me about React, Node.js, or anything related to the MERN stack.
-- 📫 How to reach me: **your.email@example.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+- 🔭 Focused on improving backend development skills.  
+- 🌱 Currently exploring Next.js and GraphQL.  
+- 👯 Open to collaborating on innovative open-source web projects.  
+- 🤔 Interested in advanced data structures and algorithms.  
+- 💬 Always up for discussions about React, Node.js, or the MERN stack.  
+- 📚 Actively solving problems on **LeetCode** and engaged in **Competitive Programming** (Codeforces, CodeChef, CSES).  
+- 📫 How to reach me: ****  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: Can solve a Rubik's Cube in under 2 minutes!  
+
 
 ---
 
 ### 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,tailwind,mongodb,sql,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,tailwind,mongodb,sql,git&perline=7" />
   </a>
 </p>
 
@@ -65,16 +67,16 @@ You can click the Preview link to take a look at your changes.
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/vivek-k-27551327b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;
-  <a href="https://leetcode.com/Vivek01110/" target="_blank">
+  <a href="https://leetcode.com/u/vivek_1110/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a> &nbsp;
-  <a href="https://www.codechef.com/users/Vivek01110" target="_blank">
+  <a href="https://www.codechef.com/users/vivek_0034" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a> &nbsp;
-  <a href="https://codeforces.com/profile/Vivek01110" target="_blank">
+  <a href="https://codeforces.com/profile/vivek_110" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
 </p>
