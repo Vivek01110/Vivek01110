@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 🤔 Interested in advanced data structures and algorithms.  
 - 💬 Always up for discussions about React, Node.js, or the MERN stack.  
 - 📚 Actively solving problems on **LeetCode** and engaged in **Competitive Programming** (Codeforces, CodeChef, CSES).  
-- 📫 How to reach me: ****  
+- 📫 How to reach me: [vivek134679kumar@gmail.com](mailto:vivek134679kumar@gmail.com)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Can solve a Rubik's Cube in under 2 minutes!  
 
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=github&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
   </a>
 </p>
 
