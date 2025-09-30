@@ -6,12 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there, I'm Vivek 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
-  </a>
-</p>
-
-<p align="center">
 <em>A passionate Full Stack Web Developer and Competitive Programmer. I love building things that live on the internet and solving complex problems.</em>
 </p>
 
@@ -39,6 +33,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
+  </a>
+</p>
 
 ### 📈 My GitHub Stats & Activity
 <p align="center">
