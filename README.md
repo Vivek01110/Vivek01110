@@ -27,39 +27,51 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 My Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
+  <!-- <a href="https://skillicons.dev"> -->
+  <span>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,tailwind,mongodb,sql,git&perline=7" />
-  </a>
+     </span>
+  <!-- </a> -->
 </p>
 
 ---
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=github&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
-  </a>
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+    <span>
+      <img src="https://github-profile-trophy.vercel.app/?username=Vivek01110&theme=github&row=1&column=7&margin-h=15&margin-w=5" alt="github-trophy" />
+       </span>
+  <!-- </a> -->
 </p>
 
 ### 📈 My GitHub Stats & Activity
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+   <span>
     <img alt="Vivek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek01110&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
+   </span>
+  <!-- </a> -->
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <span>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek01110&layout=compact&theme=radical&hide_border=true" />
-  </a>
+     </span>
+  <!-- </a> -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats"> -->
+  <span>
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek01110&theme=radical&hide_border=true" />
-  </a>
+     </span>
+  <!-- </a> -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek01110&bg_color=1c1917&color=ffffff&line=f97316&point=fde047&area=true&hide_border=true" />
-  </a>
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
+  <span> 
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?    username=Vivek01110&bg_color=1c1917&color=ffffff&line=f97316&point=fde047&area=true&hide_border=true" />
+     </span>
+  <!-- </a> -->
 </p>
 
 ---
