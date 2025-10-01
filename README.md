@@ -62,15 +62,15 @@ You can click the Preview link to take a look at your changes.
   <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats"> -->
   <span>
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek01110&theme=radical&hide_border=true" />
-     </span>
+  </span>
   <!-- </a> -->
 </p>
 
 <p align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-  <span> 
+  <div> 
     <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?    username=Vivek01110&bg_color=1c1917&color=ffffff&line=f97316&point=fde047&area=true&hide_border=true" />
-     </span>
+  </div>
   <!-- </a> -->
 </p>
 
