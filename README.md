@@ -67,10 +67,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?    username=Vivek01110&bg_color=1c1917&color=ffffff&line=f97316&point=fde047&area=true&hide_border=true" />
- 
-  <!-- </a> -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?    username=Vivek01110&bg_color=1c1917&color=ffffff&line=f97316&point=fde047&area=true&hide_border=true" /> 
+   </a> 
 </p>
 
 ---
