@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Currently exploring Next.js and GraphQL.  
 - 👯 Open to collaborating on innovative open-source web projects.  
 - 🤔 Interested in advanced data structures and algorithms.  
-- 💬 Always up for discussions about React, Node.js, or the MERN stack.  
 - 📚 Actively solving problems on **LeetCode** and engaged in **Competitive Programming** (Codeforces, CodeChef, CSES).  
 - 📫 How to reach me: [vivek134679kumar@gmail.com](mailto:vivek134679kumar@gmail.com)
 - 😄 Pronouns: He/Him  
